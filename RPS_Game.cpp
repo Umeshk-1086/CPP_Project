@@ -45,8 +45,6 @@ int main(){
     
     else if(p1==p2){
         cout<<"Its a Draw\n";
-        p1w++;
-        p2w++;
     }
     else{
         cout<<"Invalid Option";
@@ -58,4 +56,5 @@ int main(){
     else cout<<"Player 2 Wins more games\n";
     return 0;
 }
+
 
